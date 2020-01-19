@@ -28,7 +28,7 @@
 
     Scroll down and click Create Database button
 
-# ElastiCache Redis Creation
+### ElastiCache Redis Creation
 
     Go to AWS Management Console and use Find Services to search for ElastiCache
 
